@@ -1,2 +1,3 @@
 this is app.py
-this is add
+this is addition in code
+python is pythoning
